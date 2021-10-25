@@ -1,6 +1,6 @@
 {
   "name": "hyper-rigel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rigel theme for Hyper",
   "main": "index.js",
   "scripts": {
