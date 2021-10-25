@@ -1,0 +1,26 @@
+{
+  "name": "hyper-rigel",
+  "version": "1.0.0",
+  "description": "Rigel theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "deno lint index.js",
+    "fmt": "deno fmt index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tani/hyper-rigel.git"
+  },
+  "keywords": [
+    "rigel",
+    "hyper",
+    "hyper-theme",
+    "theme"
+  ],
+  "author": "TANIGUCHI Masaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tani/hyper-rigel/issues"
+  },
+  "homepage": "https://github.com/tani/hyper-rigel#readme"
+}
